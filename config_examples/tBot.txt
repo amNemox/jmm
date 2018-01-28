@@ -1,0 +1,7 @@
+{"botName":"you_bot_name","botToken":"token_from_telegram",
+"mysqlHost":"127.0.0.1",
+"mysqlUser":"root",
+"mysqlPass":"root",
+"mysqlPort":3306,
+"mysqlDbName":"miners"
+}

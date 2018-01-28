@@ -1,0 +1,1 @@
+{"uid":"string_uid","Name":"some_name","host":"127.0.0.1","type":"1","ohwPort":"8085","minerPort":"42000","vallet":"vallet","gpuIndexes":"1,0"}
